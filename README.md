@@ -46,6 +46,34 @@ The main objectives/features of the system are:
 - Digitizing to optimize time and resources
 - Generating timely alerts and comprehensive sales and medicine reports
 
+## Usage
+
+###Daily Operations
+- Medicine Sales: Efficiently process sales transactions.
+- Inventory Checks: Monitor and update stock levels regularly.
+- Order Management: Place and track supplier orders.
+- Customer Service: Maintain detailed customer records for better service.
+###System Maintenance
+- Database Backup: Regular backups to prevent data loss.
+- System Updates: Periodic updates for new features and security.
+- User Training: Training for employees to use the system effectively.
+  
+##Applications
+
+- Pharmacies: Streamline daily operations, inventory management, and customer service.
+- Hospital Pharmacies: Efficiently manage medication stocks and prescriptions.
+- Retail Drug Stores: Automate sales, track inventory, and manage supplier orders.
+- Pharmaceutical Distributors: Monitor stock levels and manage supplier and customer records effectively.
+  
+Feel free to contact for any further queries.
+
+
+
+
+
+
+
+
 
 
 
